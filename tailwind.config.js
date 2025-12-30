@@ -49,7 +49,7 @@ export default {
         "header-border": "rgba(255, 255, 255, 0.1)",
       },
       fontFamily: {
-        suisse: ["'Suisse Int'l'", "sans-serif"],
+        suisse: ["sans-serif"],
       },
     },
   },
